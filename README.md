@@ -1,5 +1,5 @@
 ## Hi there StarTrix There  👋
-#### I'm 14 years old programmer 
+#### I'm 14 years old programmer from Czech Republic
 ## I have experience
 #### Good  with: Python.
 #### Smaller with: Java
