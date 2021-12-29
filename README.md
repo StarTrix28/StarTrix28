@@ -5,7 +5,7 @@
 #### Smaller with: Java
 #### Smallest with: C # and C ++
 ## I'm working on
-#### Lantern: Soon Public
+#### Lantern: Public
 #### Light: Soon Public
 #### PyDos: Now Private
 #### GeoPyDash: Now Private
