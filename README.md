@@ -1,12 +1,11 @@
 ## Hi there StarTrix There  👋
-#### I'm 16 years old programmer from Czech Republic
+#### I'm 17 years old programmer from Czech Republic
 ## I have experience
-#### Python - 8/10
-#### Java - 5/10
-#### C - 3/10
-#### C# - 4/10
-#### C++ - 2/10
-#### C - 3/10
+#### Python - high
+#### Java - medium
+#### C - low
+#### C# - medium
+#### C++ - real low
 ## I'm working on
 #### Lantern: Public (I'll be working on it in future)
 #### Light: Never Public (It sucks)
